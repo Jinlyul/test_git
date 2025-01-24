@@ -2,7 +2,7 @@ from math import cos, sin, sqrt, tau
 from audio_filters.iir_filter import IIRFilter
  
 ## add func
-def add_func():
+def add_func11():
     return 0
 
 ## pjl 25.1.24
