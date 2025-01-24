@@ -1,13 +1,5 @@
 from math import cos, sin, sqrt, tau 
 from audio_filters.iir_filter import IIRFilter
- 
-## add func
-def add_func11():
-    return 0
-
-## pjl 25.1.24
-def add_func2():
-    return 0
 
 """ 
 Create 2nd-order IIR filters with Butterworth design.
