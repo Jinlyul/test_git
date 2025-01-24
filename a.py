@@ -5,6 +5,9 @@ from audio_filters.iir_filter import IIRFilter
 def add_func():
     return 0
 
+def add_func2():
+    return 0
+
 """ 
 Create 2nd-order IIR filters with Butterworth design.
 
